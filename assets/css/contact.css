@@ -1,0 +1,73 @@
+.navbar{
+    background-color: #473E66;
+    height: 88px;
+}
+.listItem{
+    font-size: 20px;
+}
+body{
+    background-color: #A99EC9;
+}
+#image{
+    width: 100%;
+    height: 250px;
+}
+.isActive{
+    color: aliceblue;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.contactForm{
+    border-radius: 15px;
+    text-align: center;
+    background-color: #473E66;
+    margin-top: 140px;
+    height: 540px;
+    width: 500px;
+}
+#contactUs{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+#inputName{
+    background-color: #A99EC9;
+    margin: auto;
+    margin-top: 30px;
+    width: 440px;
+    height: 60px;
+}
+#inputName::placeholder{
+    font-size: 20px;
+}
+#inputEmail{
+    background-color: #A99EC9;
+    margin: auto;
+    margin-top: 30px;
+    width: 440px;
+    height: 60px;
+}
+#inputEmail::placeholder{
+    font-size: 20px;
+}
+#inputMessage{
+    background-color: #A99EC9;
+    margin: auto;
+    margin-top: 30px;
+    width: 440px;
+    height: 160px;
+}
+#inputMessage::placeholder{
+    font-size: 20px;
+    position: absolute;
+    top: 5;
+}
+.addressMe{
+    margin-top: 140px;
+}
+.timings{
+    margin-top: 140px;
+}
